@@ -1,0 +1,3 @@
+node_modules
+credential.js
+# ^ we need to protect our private_key and private_key_id ^
